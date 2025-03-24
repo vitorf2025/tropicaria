@@ -1,5 +1,3 @@
-//Código omitido
-
 <body>
     <header class=" p-5">
         
@@ -15,5 +13,3 @@
                     <button id="diminuir-fonte" class="btn btn-primary fw-bold">A-</button>
                 </div>
         </nav>
-</header>
-
